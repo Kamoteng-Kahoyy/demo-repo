@@ -14,3 +14,4 @@ Watch tutorial on YT.
 
 1. Open index.html in your browser.
 2. Open twitch and watch kuro.
+3. Open YT to watch lemmino.
